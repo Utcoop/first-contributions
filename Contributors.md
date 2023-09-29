@@ -2303,6 +2303,7 @@ Akash Abraham
 - [Nilreboot](https://github.com/NilReboot/)
 - [UntoldGam](HTTPS://github.com/UntoldGam)
 - Jaytrox
+- [Jackson Becker](https://github.com/utcoop)
 - [Bemdoo Maor](https://github.com/MaorBemdoo)
 - [Omri Klein](https://github.com/omriklein)
 - [Sudershan Ganesan](https://github.com/gksudershan)
@@ -2793,4 +2794,3 @@ T7
 - [Koduri Mohan](https://github.com/kodurimohan)
 - [Robert Knapek](https://github.com/steernick)
 - [Nour Rajeh](https://github.com/itsnourr)
-- [Jackson Becker](https://github.com/utcoop)
